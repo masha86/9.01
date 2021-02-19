@@ -74,7 +74,7 @@ li {
     color: #232323;
 }
 
-li:hover {
+a:hover {
     color: red;
 }
 
